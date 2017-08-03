@@ -1,0 +1,13 @@
+RewriteEngine on
+
+RewriteRule ^home$ master.php?module=home [L]
+RewriteRule ^profil\.html$ master.php?module=profil [L]
+RewriteRule ^contact\.html$ master.php?module=kontak [L]
+RewriteRule ^menjadi-penulis\.html$ master.php?module=menjadi-penulis [L]
+RewriteRule ^download\.html$ master.php?module=download&id=$1 [L]
+RewriteRule ^hasil-polling\.html$ master.php?module=hasil-polling [L]
+RewriteRule ^vote-polling\.html$ master.php?module=vote-polling [L]
+RewriteRule ^agenda\.html$ master.php?module=agenda [L]
+RewriteRule ^artikel-([0-9]+)-(.*)\.html$ master.php?module=detail-artikel&id=$1 [L]
+RewriteRule ^katalog-buku\.html$ master.php?module=katalog-buku [L]
+RewriteRule ^buku-([0-9]+)-(.*)\.html$ master.php?module=detail-buku&id=$1 [L]

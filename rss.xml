@@ -1,0 +1,22 @@
+<?xml version="1.0"?> 
+
+<rss version="2.0"> 
+<channel> 
+	<title>Asfamedia Feed</title> 
+	<link>http://www.asfamedia.com</link> 
+	<description>Penerbit buku Komputer, khususnya dalam bidang Pemrograman Web dan Internet.</description> 
+	<language>en-us</language><item>
+				<title>Kaos PHP Inside</title>
+                 <link>http://www.asfamedia.com/artikel-3-kaos-php-inside.html</link>
+                 <description>Kaos berbahan jam tangan, terbuat dari besi dan baja sangat pas untuk ...</description>
+                 </item><item>
+				<title>Trik Kolaborasi Codeigniter & jQuery</title>
+                 <link>http://www.asfamedia.com/artikel-2-trik-kolaborasi-codeigniter--jquery.html</link>
+                 <description>Codeigniter merupakan Framework PHP yang paling digemari saat ini, 
+khususnya di Indonesia. Begitu juga dengan jQuery yang merupakan library
+Javascript terpopuler. Bayangkan bagaimana seandainya keduanya ...</description>
+                 </item><item>
+				<title>Trik Dahsyat Web Master PHP Plus HTML5 & CSS3</title>
+                 <link>http://www.asfamedia.com/artikel-1-trik-dahsyat-web-master-php-plus-html5--css3.html</link>
+                 <description>Web Master PHP, Mungkin itu suatu kalimat kehormatan yang diberikan untuk siapapun yang memang mahir dalam PHP, wuih keren juga.. Saat ini PHP telah menjadi pemrograman wajib bagi siapapun yang ingin terjun ke dalam ...</description>
+                 </item></channel></rss>
